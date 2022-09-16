@@ -1,1 +1,1 @@
-# book_geoinformatics
+# Lecture notes on Geoinformatics
