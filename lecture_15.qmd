@@ -1,2 +1,1 @@
-# GIS to solving real world problems (Ex: Biodiversity)
-
+# GIS to solving real world problem (Biodiversity)
