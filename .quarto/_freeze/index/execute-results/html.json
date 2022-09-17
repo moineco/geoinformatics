@@ -1,7 +1,7 @@
 {
-  "hash": "f89d2cae73031aafc1d0dc4ae48f295e",
+  "hash": "f63fd4128e4c4ec2e10a3f89a2689190",
   "result": {
-    "markdown": "# Preface {.unnumbered}\n\nThis is a Quarto book.\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "# Preface {.unnumbered}\n\nUpdated on: 2022-09-17\n\nHundreds of thousands of organizations in virtually every field are using Geoinformatics to make maps that communicate, perform analysis, share information, and solve complex problems around the world. Geoinformatics basically deals with geographic information system (GIS), a spatial system that creates, manages, analyzes, and maps all types of data. Every day, GIS powers millions of decisions around the world. It makes a big impact on our lives and you might not even realize it.\n\n![Geographic Information System](figures/GIS.png)\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
