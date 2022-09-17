@@ -18,7 +18,7 @@ Section 1: What is geographic information system (GIS)?
 
 - Lecture 5: GIS for natural resource management
 
-Section 2: What is Geographic Data?
+Section 2: What is geographic data?
 
 - Lecture 6: Spatial data collection, storage and management
 
@@ -30,7 +30,7 @@ Section 2: What is Geographic Data?
 
 - Lecture 10: Spatial data analyze
 
-Section 3: How Geographic Data Applied in the Study of Real-World Issues?
+Section 3: How geographic data can be utilized for the policy analysis?
 
 - Lecture 11: Social applications of GIS
 
